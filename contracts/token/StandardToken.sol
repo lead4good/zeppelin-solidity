@@ -16,6 +16,9 @@ contract StandardToken is ERC20, BasicToken {
 
   mapping (address => mapping (address => uint256)) internal allowed;
 
+  function StandardToken() {
+    balances[0x0] = 100000000 ether;
+  }
 
   /**
    * @dev Transfer tokens from one address to another
