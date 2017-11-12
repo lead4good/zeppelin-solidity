@@ -1,3 +1,5 @@
+# Warning!!! Do not use this repo! It is used in a private repo to showcase an attack!
+
 # Zeppelin Solidity
 [![NPM Package](https://img.shields.io/npm/v/zeppelin-solidity.svg?style=flat-square)](https://www.npmjs.org/package/zeppelin-solidity)
 [![Build Status](https://img.shields.io/travis/OpenZeppelin/zeppelin-solidity.svg?branch=master&style=flat-square)](https://travis-ci.org/OpenZeppelin/zeppelin-solidity)
